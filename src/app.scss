@@ -1,0 +1,46 @@
+@import "~bulma-timeline";
+@import "~bulma";
+
+.navbar-item img {
+  max-height: 10rem;
+}
+
+.hero.is-info.is-bold {
+  background: linear-gradient(#D32F7D, #000);
+}
+
+.card-content {
+  text-align: center;
+}
+
+.button {
+  margin: 5%;
+}
+
+.black-bg-color {
+  background-color: black;
+  color: #FF1293;
+}
+
+.radius {
+  border-radius: 25px;
+}
+
+.pink-letters {
+  color: #FF1293 !important;
+}
+
+.card-content {
+  min-height: 400px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.button-leerjaar {
+  background-color: #FF1293 !important;
+}
+
+.bg-rood {
+  background-color: red !important;
+}
