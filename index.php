@@ -35,10 +35,10 @@
                     <div class="card-content">
                         <div class="content">
                             <h4 class="pink-letters">Leerjaar 1</h4>
-                            <a class="button is-large pink-letters">Periode 1.1</a>
-                            <a class="button is-large pink-letters">Periode 1.2</a>
-                            <a class="button is-large pink-letters">Periode 1.3</a>
-                            <a class="button is-large pink-letters">Periode 1.4</a>
+                            <a href="leerjaar-1/periode-1.php" class="button is-large pink-letters">Periode 1.1</a>
+                            <a href="leerjaar-1/periode-2.php" class="button is-large pink-letters">Periode 1.2</a>
+                            <a href="leerjaar-1/periode-3.php" class="button is-large pink-letters">Periode 1.3</a>
+                            <a href="leerjaar-1/periode-4.php" class="button is-large pink-letters">Periode 1.4</a>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                                 ook over de basis van digitale vormgeving. Je specialiseert je in programmeertalen zoals
                                 PHP en JavaScript en je leert gebruik te maken van HTML5 en CSS. Ook webservers en
                                 databases (bv. MySQL) hebben straks geen geheimen meer voor jou. </p>
-                            <a class="button is-danger is-large button-leerjaar">Naar leerjaar 1</a>
+                            <a  href="leerjaar-1"class="button is-danger is-large button-leerjaar">Naar leerjaar 1</a>
                         </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                                 over de basis van digitale vormgeving. Want een product moet niet alleen goed werken,
                                 het moet er ook aantrekkelijk uitzien. Ook leer je samenwerken met mediavormgevers, want
                                 zij nemen later het grootste deel van de vormgeving voor hun rekening. </p>
-                            <a class="button is-danger is-large button-leerjaar">Naar leerjaar 2</a>
+                            <a href="leerjaar-2" class="button is-danger is-large button-leerjaar">Naar leerjaar 2</a>
                         </div>
                     </div>
                 </div>
@@ -88,10 +88,10 @@
                     <div class="card-content">
                         <div class="content">
                             <h4 class="pink-letters">Leerjaar 2</h4>
-                            <a class="button is-large pink-letters">Periode 2.1</a>
-                            <a class="button is-large pink-letters">Periode 2.2</a>
-                            <a class="button is-large pink-letters">Periode 2.3</a>
-                            <a class="button is-large pink-letters">Periode 2.4</a>
+                            <a href="leerjaar-2/periode-1.php" class="button is-large pink-letters">Periode 2.1</a>
+                            <a href="leerjaar-2/periode-2.php" class="button is-large pink-letters">Periode 2.2</a>
+                            <a href="leerjaar-2/periode-3.php" class="button is-large pink-letters">Periode 2.3</a>
+                            <a href="leerjaar-2/periode-4.php" class="button is-large pink-letters">Periode 2.4</a>
                         </div>
                     </div>
                 </div>
@@ -103,10 +103,10 @@
                     <div class="card-content">
                         <div class="content">
                             <h4 class="pink-letters">Leerjaar 3</h4>
-                            <a class="button is-large pink-letters">Periode 3.1</a>
-                            <a class="button is-large pink-letters">Periode 3.2</a>
-                            <a class="button is-large pink-letters">Periode 3.3</a>
-                            <a class="button is-large pink-letters">Periode 3.4</a>
+                            <a href="leerjaar-3/periode-1.php" class="button is-large pink-letters">Periode 3.1</a>
+                            <a href="leerjaar-3/periode-2.php" class="button is-large pink-letters">Periode 3.2</a>
+                            <a href="leerjaar-3/periode-3.php" class="button is-large pink-letters">Periode 3.3</a>
+                            <a href="leerjaar-3/periode-4.php" class="button is-large pink-letters">Periode 3.4</a>
                         </div>
                     </div>
                 </div>
@@ -125,7 +125,7 @@
                                 Er zijn ook mogelijkheden tot verdieping, bijvoorbeeld in frameworks zoals Laravel en
                                 Node.js.
                             </p>
-                            <a class="button is-danger is-large button-leerjaar">Naar leerjaar 3</a>
+                            <a href="leerjaar-3" class="button is-danger is-large button-leerjaar">Naar leerjaar 3</a>
                         </div>
                     </div>
                 </div>

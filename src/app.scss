@@ -1,12 +1,14 @@
-@import "~bulma-timeline";
-@import "~bulma";
+@import "/node_modules/bulma/css/bulma.css";
+
+$roze: #FF1293;
+$zwart: #000000;
 
 .navbar-item img {
   max-height: 10rem;
 }
 
 .hero.is-info.is-bold {
-  background: linear-gradient(#D32F7D, #000);
+  background: linear-gradient($roze, $zwart);
 }
 
 .card-content {
@@ -19,7 +21,7 @@
 
 .black-bg-color {
   background-color: black;
-  color: #FF1293;
+  color: $roze;
 }
 
 .radius {
@@ -27,20 +29,73 @@
 }
 
 .pink-letters {
-  color: #FF1293 !important;
+  color: $roze !important;
 }
 
 .card-content {
-  min-height: 400px;
+  min-height: 475px;
   display: flex;
   justify-content: center;
   flex-direction: column;
 }
 
 .button-leerjaar {
-  background-color: #FF1293 !important;
+  background-color: $roze !important;
 }
 
 .bg-rood {
   background-color: red !important;
+}
+
+.tag:not(body).is-primary {
+  background-color: $roze;
+}
+
+.timeline.is-centered .timeline-item.is-primary::before {
+  background-color: $roze;
+}
+
+.timeline .timeline-item .timeline-marker.is-primary {
+  background-color: $roze !important;
+  border-color: $roze !important;
+}
+
+.white-colors {
+  color: white;
+}
+
+.tag:not(body).is-info {
+  background-color: $roze;
+}
+
+.column-roze {
+  background-color: $roze;
+  color: white;
+  padding: 1.5rem;
+}
+
+.button-zwart {
+  background-color: $zwart !important;
+  margin: 2% !important;
+}
+
+@media screen and (min-width: 769px) {
+  .hero.is-medium .hero-body {
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+  }
+}
+
+.periode-switch {
+  background-color: $roze !important;
+  color: white !important;
+}
+
+.periode-rechts {
+  float: right;
+}
+
+.pagination-link.is-current {
+  background-color: $roze;
+  border-color: $roze;
 }
