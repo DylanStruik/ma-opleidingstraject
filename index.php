@@ -58,7 +58,7 @@
                                 ook over de basis van digitale vormgeving. Je specialiseert je in programmeertalen zoals
                                 PHP en JavaScript en je leert gebruik te maken van HTML5 en CSS. Ook webservers en
                                 databases (bv. MySQL) hebben straks geen geheimen meer voor jou. </p>
-                            <a  href="leerjaar-1"class="button is-danger is-large button-leerjaar">Naar leerjaar 1</a>
+                            <a  href="leerjaar-1/periode-1.php"class="button is-danger is-large button-leerjaar">Naar leerjaar 1</a>
                         </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                                 over de basis van digitale vormgeving. Want een product moet niet alleen goed werken,
                                 het moet er ook aantrekkelijk uitzien. Ook leer je samenwerken met mediavormgevers, want
                                 zij nemen later het grootste deel van de vormgeving voor hun rekening. </p>
-                            <a href="leerjaar-2" class="button is-danger is-large button-leerjaar">Naar leerjaar 2</a>
+                            <a href="leerjaar-2/periode-1.php" class="button is-danger is-large button-leerjaar">Naar leerjaar 2</a>
                         </div>
                     </div>
                 </div>
@@ -125,7 +125,7 @@
                                 Er zijn ook mogelijkheden tot verdieping, bijvoorbeeld in frameworks zoals Laravel en
                                 Node.js.
                             </p>
-                            <a href="leerjaar-3" class="button is-danger is-large button-leerjaar">Naar leerjaar 3</a>
+                            <a href="leerjaar-3/periode-1.php" class="button is-danger is-large button-leerjaar">Naar leerjaar 3</a>
                         </div>
                     </div>
                 </div>
