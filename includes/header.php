@@ -124,4 +124,3 @@
     <link rel="stylesheet" type="text/css" href="https://opleidingstraject.test/css/app.css">
 </head>
 <body>
-<?php echo $pagina ?>
